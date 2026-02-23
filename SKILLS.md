@@ -1,6 +1,12 @@
 ---
 name: minions-approvals
-description: Approval requests, human decisions, and immutable audit logs
+id: OC-0105
+version: 1.0.0
+description: "Approval requests, human decisions, and immutable audit logs"
+category: productivity
+subcategory: tasks
+tags: ["minion", "productivity", "tasks"]
+comments:
 ---
 
 # minions-approvals — Agent Skills
