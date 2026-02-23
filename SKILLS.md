@@ -145,7 +145,7 @@ approval-request    --triggered-->       audit-log-entry
 approval-request    --escalated_via-->   approval-escalation
 approval-request    --decided_by-->      person (or agent)
 approval-delegate   --delegates_for-->   person
-approval-policy     --applies_to-->      action types across all toolboxes
+approval-policy     --applies_to-->      action types across all minions
 audit-log-entry     --traces-->          approval-request
 ```
 
