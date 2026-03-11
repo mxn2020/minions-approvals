@@ -1,0 +1,15 @@
+name: minions-approvals-workspace
+project_scope: main
+project_type: monorepo
+description: "Approval requests, human decisions, and immutable audit logs"
+tier: idea
+lane: minions
+priority: medium
+oss: true
+stack: [typescript]
+repo: "https://github.com/mxn2020/minions-approvals"
+deploy_url: null
+last_active: 2026-02-23
+tags: [minion, toolbox, ai-agent, automation, minions, approvals]
+notes: null
+id: 0454cc4e-8600-4cb8-87a9-3585eb67e120

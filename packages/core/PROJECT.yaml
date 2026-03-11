@@ -1,0 +1,8 @@
+name: "@minions-approvals/sdk"
+project_scope: child
+child_type: sdk
+parent_project: minions-approvals-workspace
+description: "Approval requests, human decisions, and immutable audit logs"
+priority: high
+deploy_url: null
+tags: null

@@ -1,0 +1,1 @@
+# minions-approvals-web\n\nStandard compliance definition for minions-approvals-web\n\n![CI](https://github.com/mxn2020/minions-approvals-web/actions/workflows/ci.yml/badge.svg) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)\n

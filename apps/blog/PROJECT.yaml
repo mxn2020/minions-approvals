@@ -1,0 +1,8 @@
+name: minions-approvals-blog
+project_scope: child
+child_type: blog
+parent_project: minions-approvals-workspace
+description: Standard compliance definition for minions-approvals-blog
+priority: high
+deploy_url: null
+tags: null
