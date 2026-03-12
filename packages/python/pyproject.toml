@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "minions-approvals"
-version = "0.1.0"
+version = "0.2.0"
 description = "Approval requests, human decisions, and immutable audit logs"
 readme = "README.md"
 license = { text = "MIT" }

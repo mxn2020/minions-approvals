@@ -1,6 +1,6 @@
 {
   "name": "@minions-approvals/cli",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "CLI for minions-approvals — Approval requests, human decisions, and immutable audit logs",
   "license": "MIT",
   "repository": {

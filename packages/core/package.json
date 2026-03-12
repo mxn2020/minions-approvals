@@ -1,6 +1,6 @@
 {
   "name": "@minions-approvals/sdk",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Approval requests, human decisions, and immutable audit logs",
   "type": "module",
   "main": "./dist/index.js",
